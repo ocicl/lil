@@ -5,6 +5,6 @@ Common Lisp
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/fare/lisp-interface-library.git |
-| commit  | 52a9c13                                                |
+| commit  | c29a464                                                |
 | systems | lil                                                    |
 |---------+--------------------------------------------------------|
